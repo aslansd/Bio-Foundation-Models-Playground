@@ -1,0 +1,6 @@
+{
+  "name": "Bio Foundation Models Playground",
+  "description": "An interactive playground and chat explorer for open-source foundation models in life sciences, covering genomics, transcriptomics, proteins, and chemical SMILES.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
